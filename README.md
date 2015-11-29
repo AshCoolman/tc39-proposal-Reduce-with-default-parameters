@@ -2,7 +2,9 @@
 
 ## Intro
 
-The behavior of the reduce callback could respect the existence of default parameters.
+The behavior of the reduce callback does not really need to change if an initial value is not provided - especially as we have default parameters.
+
+In a nutshell this suggests removing some API functionality; especially considering the default parameter syntax.
 
 ## Background
 
@@ -46,6 +48,7 @@ output actual: "[object Object]2"
 */
 
 ```
+
 
 ## Example
 
