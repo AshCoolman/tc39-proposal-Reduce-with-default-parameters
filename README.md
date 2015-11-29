@@ -1,4 +1,4 @@
-# reduce TC39 proposal: single callback behavior
+# TC39 proposal: reduce() single callback behavior
 
 ## Intro
 
