@@ -1,4 +1,4 @@
-# TC39 proposal: reduce behaves the same regardless of initial Value
+# reduce TC39 proposal: single callback behavior
 
 ## Intro
 
