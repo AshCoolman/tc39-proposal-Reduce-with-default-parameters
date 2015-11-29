@@ -1,6 +1,8 @@
-# Strawman proposal: Reduce with default parameters
+# TC39 proposal: Reduce with default parameters
 
-The behavior of the reduce callback could respect the existence of default parameters
+## Intro
+
+The behavior of the reduce callback could respect the existence of default parameters.
 
 ## Background
 
